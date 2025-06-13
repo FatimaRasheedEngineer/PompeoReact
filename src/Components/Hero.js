@@ -16,7 +16,7 @@ function Hero() {
  <button className='herobtn'>SHOP COLLECTION</button>
             </div>
             <div className='heroimg'>
-                <img src={heropic}/>
+                <img src={heropic} alt='hero'/>
             </div>
         </div>
         </div>  
