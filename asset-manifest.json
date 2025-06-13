@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/FatimaRasheedEngineer/PompeoReact.git/static/css/main.fb0143c1.css",
-    "main.js": "/FatimaRasheedEngineer/PompeoReact.git/static/js/main.2975435e.js",
-    "static/js/453.c1668db1.chunk.js": "/FatimaRasheedEngineer/PompeoReact.git/static/js/453.c1668db1.chunk.js",
-    "static/media/heroBG.jpeg": "/FatimaRasheedEngineer/PompeoReact.git/static/media/heroBG.72051d3cd7f340ba7da5.jpeg",
-    "static/media/heropic.png": "/FatimaRasheedEngineer/PompeoReact.git/static/media/heropic.b25922b3dcb67c2e5aeb.png",
-    "static/media/cart.svg": "/FatimaRasheedEngineer/PompeoReact.git/static/media/cart.8aa0168a0d4a119ce53a48e9b82abd34.svg",
-    "index.html": "/FatimaRasheedEngineer/PompeoReact.git/index.html",
-    "main.fb0143c1.css.map": "/FatimaRasheedEngineer/PompeoReact.git/static/css/main.fb0143c1.css.map",
-    "main.2975435e.js.map": "/FatimaRasheedEngineer/PompeoReact.git/static/js/main.2975435e.js.map",
-    "453.c1668db1.chunk.js.map": "/FatimaRasheedEngineer/PompeoReact.git/static/js/453.c1668db1.chunk.js.map"
+    "main.css": "/PompeoReact/static/css/main.c8065b91.css",
+    "main.js": "/PompeoReact/static/js/main.c6533589.js",
+    "static/js/453.c1668db1.chunk.js": "/PompeoReact/static/js/453.c1668db1.chunk.js",
+    "static/media/heroBG.jpeg": "/PompeoReact/static/media/heroBG.72051d3cd7f340ba7da5.jpeg",
+    "static/media/heropic.png": "/PompeoReact/static/media/heropic.b25922b3dcb67c2e5aeb.png",
+    "static/media/cart.svg": "/PompeoReact/static/media/cart.8aa0168a0d4a119ce53a48e9b82abd34.svg",
+    "index.html": "/PompeoReact/index.html",
+    "main.c8065b91.css.map": "/PompeoReact/static/css/main.c8065b91.css.map",
+    "main.c6533589.js.map": "/PompeoReact/static/js/main.c6533589.js.map",
+    "453.c1668db1.chunk.js.map": "/PompeoReact/static/js/453.c1668db1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb0143c1.css",
-    "static/js/main.2975435e.js"
+    "static/css/main.c8065b91.css",
+    "static/js/main.c6533589.js"
   ]
 }
