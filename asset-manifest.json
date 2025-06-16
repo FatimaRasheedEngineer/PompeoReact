@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/PompeoReact/static/css/main.c8065b91.css",
-    "main.js": "/PompeoReact/static/js/main.c6533589.js",
+    "main.css": "/PompeoReact/static/css/main.ad875497.css",
+    "main.js": "/PompeoReact/static/js/main.1b3a0e14.js",
     "static/js/453.c1668db1.chunk.js": "/PompeoReact/static/js/453.c1668db1.chunk.js",
     "static/media/heroBG.jpeg": "/PompeoReact/static/media/heroBG.72051d3cd7f340ba7da5.jpeg",
     "static/media/heropic.png": "/PompeoReact/static/media/heropic.b25922b3dcb67c2e5aeb.png",
+    "static/media/platesSVG.png": "/PompeoReact/static/media/platesSVG.0d09e754375b998b0684.png",
     "static/media/cart.svg": "/PompeoReact/static/media/cart.8aa0168a0d4a119ce53a48e9b82abd34.svg",
     "index.html": "/PompeoReact/index.html",
-    "main.c8065b91.css.map": "/PompeoReact/static/css/main.c8065b91.css.map",
-    "main.c6533589.js.map": "/PompeoReact/static/js/main.c6533589.js.map",
+    "main.ad875497.css.map": "/PompeoReact/static/css/main.ad875497.css.map",
+    "main.1b3a0e14.js.map": "/PompeoReact/static/js/main.1b3a0e14.js.map",
     "453.c1668db1.chunk.js.map": "/PompeoReact/static/js/453.c1668db1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8065b91.css",
-    "static/js/main.c6533589.js"
+    "static/css/main.ad875497.css",
+    "static/js/main.1b3a0e14.js"
   ]
 }
